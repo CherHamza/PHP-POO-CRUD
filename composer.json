@@ -1,0 +1,15 @@
+{
+    "name": "hamza/mvc4",
+    "autoload": {
+        "psr-4": {
+            "Digi\\Keha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CherHamza",
+            "email": "hamzacheracher1@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
